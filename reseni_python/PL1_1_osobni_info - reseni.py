@@ -1,0 +1,13 @@
+#Start code here
+jmeno = input("Jak se jmenuješ? ")
+vek = int(input("Kolik ti je let? "))
+vyska = float(input("Kolik měříš cm? "))
+zaliba = input("Jaká je tvá záliba? ")
+print("Jméno:")
+print(jmeno)
+print("Věk:")
+print(vek)
+print("Výška:")
+print(vyska)
+print("Záliba:")
+print(zaliba)
